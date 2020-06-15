@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Zasilacz-symetryczny-+-12V-rescue)(type Legacy)(uri "${KIPRJMOD}/Zasilacz symetryczny +-12V-rescue.lib")(options "")(descr ""))
+)
